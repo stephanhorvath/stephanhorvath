@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey there 👋
+
+I'm Stephan, a software developer specialising in audio engineering and digital signal processing. I create high-performance audio tools and plugins using Rust and C++, aiming to advance digital sound processing.
+
+📫 Connect With Me
+- LinkedIn: [stephan-horvath](https://linkedin.com/in/stephan-horvath)
+- GitHub: [stephanhorvath](https://github.com/stephanhorvath)
+
+![Visitor Count](https://profile-counter.glitch.me/stephanhorvath/count.svg)
 
 <!--
 **stephanhorvath/stephanhorvath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
