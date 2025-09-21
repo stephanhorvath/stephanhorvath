@@ -6,8 +6,6 @@ I'm Stephan, a software developer specialising in audio engineering and digital 
 - LinkedIn: [stephan-horvath](https://linkedin.com/in/stephan-horvath)
 - GitHub: [stephanhorvath](https://github.com/stephanhorvath)
 
-![Visitor Count](https://profile-counter.glitch.me/stephanhorvath/count.svg)
-
 <!--
 **stephanhorvath/stephanhorvath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
